@@ -1,0 +1,9 @@
+body{
+    background-color:gold;
+}
+#camera,#result{
+    border-style: outset;
+    border-color: black;
+    width: 350px;;
+    height: 300px;
+}
